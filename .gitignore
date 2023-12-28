@@ -1,0 +1,8 @@
+*-backups
+.DS_Store
+build
+fp-info-cache
+gerber.zip
+iona-sb.bin
+iona-sb-fixup.bin
+production
